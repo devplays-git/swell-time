@@ -3,7 +3,7 @@ html, body {
     padding: 0;
     font-family: 'Rubik', sans-serif;
     background-color: #F5BF96;
-    color: #9B4444;
+    color: #3d0a0a;
     user-select: none;
 }
 
@@ -20,7 +20,7 @@ img {
 }
 
 input {
-    color: #432000;
+    color: #402976;
     background-color: #DCE1EB;
     border: 0;
     padding: 15px;
@@ -32,7 +32,7 @@ input {
 }
 
 button {
-    color: #FEECE2;
+    color: #38c3a0;
     background-color: #F6995C;
     border: 0;
     padding: 15px;
@@ -57,7 +57,7 @@ ul {
 
 ul li {
     font-size: 20px;
-    background-color: #FFFDF8;
+    background-color: #cca84d;
     padding: 15px;
     border-radius: 8px;
     flex-grow: 1;
